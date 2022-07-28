@@ -1,89 +1,56 @@
-[Reenviado de ⚙️Soporte Bots Free⚙️]
-☺️Bienvenidos A TGMoodleFreeV1.5☺️
-———————————————-——-
-❗️Requisitos Tener Cuenta En❗️
-———————————————-——-
-📡Páginas funcionales Pv:
-http://moodle.uclv.edu.cu/
-https://evead.unah.edu.cu/
-https://evea.uh.cu/
+🍜Bot Iniciado⛩
+Bienvenido a mi bot de descarga
 
-📡Publicas:
-https://cursos.uo.edu.cu/
-https://eva.uo.edu.cu/
+💡 Como Descargar
 
-⚙️Usuarios Soporte⚙️
-@developer01dev
-@shapingdev
-———————————————-——-
-⚙️Spoporte De Urls⚙️
-———————————————-——-
-apkpure
-mega (Archivos y Carpetas)
-mediafire (Archivos)
-Youtube (Nota: Descargas un poco lentas)
+1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar usando el bot @DirectLinkGeneratorbot.
+2. Ya terminada la descarga usar el TXT iniciar seción con la cuenta que se le dio y acceder a los planes de aprendizaje.
+3. Los comando para configurar el bot son:
 
--Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
+/start ⛩Iniciar Bot⛩
 
-Hablar con los de soporte para q les de
-un tiempo de prueba al bot
-———————————————-——-
-📑Tutorial📑
-———————————————-——-
--Al entrar en el bot les va a pedir su cuenta de moodle, antes especifique su host (ejemplo https://moodle.uclv.edu.cu/) y depues configure su cuenta enviandole al bot el comando /account  seguido myusuario,contraseña .
--Puede cambiar el tamaño de los archivos comprimidos enviandole al bot el comando /zips tamaño
-———————————————-——-
-📑Ejemplo de Descarga📑
-———————————————-——-
-📥Descargando... 
-🔖Nombre: [GM]NFSHv107FW6[EU].part3.rar
-🗂Tamaño Total: 1.6GiB
-🗂Descargado: 128.0KiB
-📶Velocidad: 128.0KiB/s
-/cancel_asd9ajas9
+/help 📖Abrir el Tutorial
 
--Para Cancelar Una Descarga Basta Con Tocar El Comando /cancel_asd9ajas9 y al cabo de 3s se cancelara
-———————————————-——-
-📑Ejemplo de Subida📑
-———————————————-——-
-⏫Subiendo A La Nube☁️... 
-🔖Nombre: miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
- (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/) (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/)⏫Subiendo: miui_LIMEGlobal_V127z.009
-🗂Tamaño Total: 195.9MiB
-🗂Subido: 176.0MiB
-📶Velocidad: 20.8MiB/s
--Nota: Las Subidas No Se Cancelan
-———————————————-——-
-📑Ejemplo Proceso Terminado📑
-———————————————-——-
-📌Proceso Finalizado📌
-🔖Nombre: miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
- (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/) (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/)🗂Tamaño Total: 2.5GiB
-📂Tamaño Partes: 300.0MiB
-📤Partes Subidas: 9/9
+/my 👤Información 
 
-📄Archivo: /file_10
-📘TxT: /txt_10
-🗑Borrar Archivo: /del_10
+/files 📋Archivos subidos
 
--Para Extraer EL/Los Enlaces del archivo basta con tocar /file_10
--Para Extraer EL/Los Enlaces del archivo en un txt basta con tocar /txt_10
--Para Borrar EL archivo basta con tocar /txt_10
--Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos
-———————————————-——-
-📑Ejemplo Lista De Archivos📑
-———————————————-———————————————-——-
-📑Archivos (4):
-/txt_0 /file_0 /del_0
-Crea un Repack Personalizado  BlackBox  HD.
+/dir 📂Carpeta a subir
 
-/txt_1 /file_1 /del_1
-How to Create a Modern Login Window in WPF using C# | C# Tutorial.
+/about Info del bot
 
-/txt_2 /file_2 /del_2
-Phoenix Browser Fast Safe_v9.
+/host ⚙️Configura URL de la nube ☁️
 
-/txt_3 /file_3 /del_3
-Snapchat_v11.
-———————————————-——-
-☺️Feliz Estadia Fim.☺️
+/acc ⚙️Configura (usuario,contraseña)
+
+/repo 📝Repo ID (Dejan en el #4)
+
+/zips ⚙️Configura Tamaños de los archivos📦
+
+/proxy 💡Activa Proxy (Más velocidad)
+
+/search_proxy 💡El bot busca un proxy
+
+/crypt 💡Encrypta el proxy
+
+/decrypt 💡Descrypta un proxy
+
+/token_on ✳️Avilita la descarga de archivos de nubes que no dan token
+
+/token_off ✳️Desavilita la opción
+
+/uptype ⏫Cambia subda de los archivos (evidence,draft,blog)
+
+/cloud ☁️Cambia tipo (moodle o cloud)
+
+🚫Comandos de Administrador🚫
+
+/add ✳️Permite acceso a un usuario
+/admin ✳️Poner de admin a un usuario
+/preview ✳️Para que un usuario pueda ver el bot pero sin poder hacer o subir contenido
+/ban 🚫Ban vete la tu casa chaval
+/db 🗂Obtener base de datos
+
+🔗 Enlaces soportados Youtube, y Enlaces directos
+
+✳️Contactar con el Admin en caso de problemas✳️
